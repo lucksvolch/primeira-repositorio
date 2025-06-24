@@ -1,2 +1,2 @@
-# primeiro-repositorio
-este é meu primeiro repositorio no github
+# olá eu sou Lucas Almeida Cordeiro
+este é meu primeiro repositorio no github na aula de informática
